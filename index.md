@@ -8,8 +8,8 @@ Les dernières versions des diaporamas (non-annotées) sont listées ci-dessous.
 
 # Séance 2 (28/09/2021)
 
-* [Rappels de thermodynamique](THERMO.pdf)
-* [Modèle de mélange idéal de gaz parfaits](CHEM.pdf)
+* [Rappels de thermodynamique](slideshow/THERMO.pdf)
+* [Modèle de mélange idéal de gaz parfaits](slideshow/CHEM.pdf)
 
 # Liens utiles
 
