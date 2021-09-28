@@ -37,6 +37,7 @@ jobs:
           import PlutoSliderServer;
 
           PlutoSliderServer.github_action(;
+            Export_output_dir::String="output",
             Export_cache_dir="pluto_state_cache",
           );'
 
@@ -45,6 +46,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
-          folder: .
+          folder: output
           target_folder: notebook
 
