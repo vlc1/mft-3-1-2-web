@@ -4,7 +4,12 @@ date: MFT-3-1-2 2021/2022
 author: Vincent Le Chenadec
 ...
 
-Les dernières versions des diaporamas (non-annotées) sont disponibles [ici](slideshow).
+Les dernières versions des diaporamas (non-annotées) sont listées ci-dessous. Voir aussi la section de liens utiles plus bas.
+
+# Séance 2 (28/09/2021)
+
+* [Rappels de thermodynamique](THERMO.pdf)
+* [Modèle de mélange idéal de gaz parfaits](CHEM.pdf)
 
 # Liens utiles
 
