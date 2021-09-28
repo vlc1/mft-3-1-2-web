@@ -44,5 +44,5 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   branch: gh-pages
                   folder: .
-                  target-folder: notebook
+                  target_folder: notebook
 
