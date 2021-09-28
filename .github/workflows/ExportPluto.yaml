@@ -37,7 +37,7 @@ jobs:
           import PlutoSliderServer;
 
           PlutoSliderServer.github_action(;
-            Export_output_dir::String="output",
+            Export_output_dir="output",
             Export_cache_dir="pluto_state_cache",
           );'
 
