@@ -4,6 +4,8 @@ date: MFT-3-1-2 2021/2022
 author: Vincent Le Chenadec
 ...
 
+Les dernières versions des diaporamas (non-annotées) sont disponibles [ici](slideshow).
+
 # Liens utiles
 
 * [Google Drive](https://drive.google.com/drive/folders/1DAvc1ThGb4J5Zn152nxiP5G2AjRDvWVb?usp=sharing) sur lequel trouver les diaporamas annotés ;
