@@ -34,9 +34,9 @@ jobs:
         root_file: "*.tex"
         glob_root_file: true
 
-    - name: Install rsync
+    - name: Install git
       run: |
-        apt-get update && apt-get install -y rsync
+        apt-get update && apt-get install -y git
 
     - name: Deploy to gh-pages
       uses: JamesIves/github-pages-deploy-action@releases/v3
