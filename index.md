@@ -6,6 +6,7 @@ author: Vincent Le Chenadec
 
 # Liens utiles
 
-* Bases de données thermodynamiques ([lien](https://shepherd.caltech.edu/EDL/PublicResources/sdt/thermo.html))
-* [*Notebook*](notebook) présenté lors de la séance 2 (28/09/2021)
+* [Google Drive](https://drive.google.com/drive/folders/1DAvc1ThGb4J5Zn152nxiP5G2AjRDvWVb?usp=sharing) sur lequel trouver les diaporamas annotés ;
+* Bases de données thermodynamiques ([lien](https://shepherd.caltech.edu/EDL/PublicResources/sdt/thermo.html)) ;
+* [*Notebooks*](notebook) présentés en cours (séance 2 du 28/09/2021 notamment).
 
