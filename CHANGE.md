@@ -6,7 +6,7 @@ header-includes:
 - \usepackage{siunitx}
 - \usepackage{amsmath}
 - \usepackage{stmaryrd}
-- \graphicspath{{./images/}}
+- \graphicspath{{../images/}}
 ...
 
 # Règle de Gibbs
