@@ -89,3 +89,46 @@ $$
 \mathcal{V} = N + 2 - \varphi - r
 $$
 
+# Substances pures
+
+::: {.columns}
+::: {.column width="50%"}
+
+![Diagramme $\left ( p, T \right )$](pT.pdf "diagramme p, T"){#fig:pT}
+
+:::
+::: {.column width="50%"}
+
+* Les tirets ne délimitent pas des transitions entre phase mais plutôt les définitions suivantes 
+* Une phase est considérée liquide si elle s'évapore lors d'une détente à température constante
+* Une phase est considérée vapeur si elle se condense lorsqu'elle est refroidie à pression constante
+
+:::
+:::
+
+---
+
+![Diagramme $\left ( p, V \right )$](pV.pdf "diagramme p, V"){#fig:pV}
+
+---
+
+::: {.columns}
+::: {.column width="50%"}
+
+![](supersub.png "supersub")
+
+:::
+::: {.column width="50%"}
+
+* Courbe de rosée : frontière entre les domaines vapeur et la zone diphasée liquide/vapeur. On parlera de vapeur saturée.
+* Courbe d'ébullition : frontière entre les domaines liquide et la zone diphasée liquide/vapeur. On parlera de liquide saturé.
+* Vapeur surchauffée
+* Liquide sous-refroidi
+
+:::
+:::
+
+---
+
+![Diagramme $\left (p, V, T \right )$](pVT.png "diagramme p, V, T")
+

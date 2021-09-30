@@ -27,7 +27,7 @@ jobs:
       uses: docker://pandoc/core:2.9
       with:
         entrypoint: /bin/sh
-        args: -c "find ./ -iname '*.md' -type f -exec sh -c 'pandoc -s -N ${0} -t beamer --slide-level 1 -o output/$(basename $0 .md).tex' {} \;"
+        args: -c "find ./ -iname '*.md' -type f -exec sh -c 'pandoc -s -N ${0} -t beamer --resource-path=./images --slide-level 1 -o output/$(basename $0 .md).tex' {} \;"
 
     - name: LaTeX
       uses: xu-cheng/latex-action@v2

@@ -323,6 +323,12 @@ $$
 \chi _ T = - \frac{1}{V} \left ( \frac{\partial V}{\partial p} \right ) _ T
 $$
 
+---
+
+$$
+\frac{\mathrm{d} V}{V} = \beta \mathrm{d} T - \kappa \mathrm{d} p
+$$
+
 # Cœfficients calorimétriques
 
 * Les capacités calorifiques à volume et pression constantes sont définies par
