@@ -6,6 +6,7 @@ header-includes:
 - \usepackage{siunitx}
 - \usepackage{amsmath}
 - \usepackage{stmaryrd}
+- \graphicspath{{./images/}}
 ...
 
 # Règle de Gibbs
@@ -131,4 +132,11 @@ $$
 ---
 
 ![Diagramme $\left (p, V, T \right )$](pVT.png "diagramme p, V, T")
+
+# Systèmes diphasiques
+<!-- Smith, Sec. 6.5 (pp. 254) -->
+<!-- App. E -->
+<!-- Chap. 12 & 13 -->
+
+* Relation de Clapeyron
 
