@@ -6,6 +6,10 @@ author: Vincent Le Chenadec
 
 Les dernières versions des diaporamas (non-annotées) sont listées ci-dessous. Voir aussi la section de liens utiles plus bas.
 
+# Séance 1 (21/09/2021)
+
+* [Thermodynamique hors équilibre](slideshow/NONEQUILIBRIUM.pdf)
+
 # Séance 2 (28/09/2021)
 
 * [Rappels de thermodynamique](slideshow/THERMO.pdf)
