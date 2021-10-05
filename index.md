@@ -11,6 +11,11 @@ Les dernières versions des diaporamas (non-annotées) sont listées ci-dessous.
 * [Rappels de thermodynamique](slideshow/THERMO.pdf)
 * [Modèle de mélange idéal de gaz parfaits](slideshow/CHEM.pdf)
 
+# Séance 3 (05/10/2021)
+
+* [Changement de phase](slideshow/CHANGE.pdf)
+* [Modèles bifluides](slideshow/BIFLUIDE.pdf)
+
 # Liens utiles
 
 * [Google Drive](https://drive.google.com/drive/folders/1DAvc1ThGb4J5Zn152nxiP5G2AjRDvWVb?usp=sharing) sur lequel trouver les diaporamas annotés ;
