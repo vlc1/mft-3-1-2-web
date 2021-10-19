@@ -112,7 +112,7 @@ $$
 ---
 
 * Il existe plusieurs règles possibles pour relier les c\oe{}fficients de diffusivité à leurs valeurs dans les limites pures
-* La règle de vigne par exemple
+* La règle de Vignes par exemple
 $$
 \ln \mathcal{D} _ \mathrm{AB} = x _ \mathrm{A} \lim _ {x _ \mathrm{A} \to 1} \ln \mathcal{D} _ \mathrm{AB} + x _ \mathrm{B} \lim _ {x _ \mathrm{B} \to 1} \ln \mathcal{D} _ \mathrm{AB}
 $$
