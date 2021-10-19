@@ -20,6 +20,11 @@ Les dernières versions des diaporamas (non-annotées) sont listées ci-dessous.
 * [Changement de phase](slideshow/CHANGE.pdf)
 * [Modèles bifluides](slideshow/BIFLUIDE.pdf)
 
+# Séance 5 (19/10/2021)
+
+* [Équations d'état](slideshow/EOS.pdf)
+* [Théorie de la diffusion](slideshow/DIFFUSION.pdf)
+
 # Liens utiles
 
 * [Google Drive](https://drive.google.com/drive/folders/1DAvc1ThGb4J5Zn152nxiP5G2AjRDvWVb?usp=sharing) sur lequel trouver les diaporamas annotés ;
