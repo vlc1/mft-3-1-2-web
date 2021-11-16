@@ -25,6 +25,10 @@ Les dernières versions des diaporamas (non-annotées) sont listées ci-dessous.
 * [Équations d'état](slideshow/EOS.pdf)
 * [Théorie de la diffusion](slideshow/DIFFUSION.pdf)
 
+# Soutenances TP (07/12/2021)
+
+* [Planning](schedule.pdf)
+
 # Liens utiles
 
 * [Google Drive](https://drive.google.com/drive/folders/1DAvc1ThGb4J5Zn152nxiP5G2AjRDvWVb?usp=sharing) sur lequel trouver les diaporamas annotés ;
