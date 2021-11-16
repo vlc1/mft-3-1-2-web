@@ -28,6 +28,7 @@ Les dernières versions des diaporamas (non-annotées) sont listées ci-dessous.
 # Soutenances TP (07/12/2021)
 
 * [Planning](schedule.pdf)
+* 12 minutes présentation + 12 minutes questions/discussion
 
 # Liens utiles
 
